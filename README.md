@@ -15,28 +15,28 @@ npx ImSSRahman
 
 ```javascript
 const Shamiur = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "MongoDB", "ExpressJS", "NodeJS", "GoLang", "ErLang / Elixir"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["React Native"],
-        frontEnd: {
+    Pronouns: "He" | "Him",
+    Code: ["Javascript / Typescript", "ExpressJS", "NodeJS", "GoLang", "ErLang / Elixir" "Python", "MongoDB"],
+    AskMeAbout: ["web dev", "tech", "app dev", "photography"],
+    Technologies: {
+        MobileApp: ["React Native"],
+        FrontEnd: {
             Js: ["ReactJS", "Flutter"],
             Css: ["materialize", "React", "bootstrap","Material-UI"]
         },
-        backEnd: {
-            Js: ["node", "express", "SuiteScript"],
-            Python: ["flask"]
-            ErLang: ["Elixir"]
+        BackEnd: {
+            Js: ["NodeJS", "ExpressJS", "SuiteScript"],
+            Python: ["Flask"],
+            ErLang: ["Elixir"],
             GoLang: ["Go"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        DevOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        Databases: ["MongoDB", "MySql", "sqlite"],
+        Misc: ["RabbitMQ", "Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Attendance System with Face Recognition and Temperature Web Application",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    Architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    CurrentProject: "I am developing Attendance System with Face Recognition and Temperature Web Application",
+    FunFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
