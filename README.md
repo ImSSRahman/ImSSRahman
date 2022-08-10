@@ -26,7 +26,7 @@ const Shamiur = {
         },
         BackEnd: {
             Technology: ["NodeJS / Javascript", "ErLang / Elixir", "Python"],
-            NodeJS: ["Javascript"],
+            NodeJS: ["Typescript / Javascript"],
             Python: ["Flask"],
             ErLang: ["Elixir"],
             GoLang: ["Go"]
