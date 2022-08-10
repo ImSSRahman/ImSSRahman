@@ -36,7 +36,7 @@ const Shamiur = {
         Misc: ["RabbitMQ", "Firebase", "Socket.IO", "Selenium", "Open-CV", "php", "SuiteApp"]
     },
     Architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    CurrentProject: "I am developing Attendance System with Face Recognition and Temperature Web Application",
+    CurrentProject: "Some Project for Someone.",
     FunFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
