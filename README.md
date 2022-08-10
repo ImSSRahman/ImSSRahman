@@ -17,22 +17,23 @@ npx ImSSRahman
 const Shamiur = {
     Pronouns: "He" | "Him",
     Code: ["Javascript / Typescript", "ExpressJS", "NodeJS", "GoLang", "ErLang / Elixir" "Python", "MongoDB"],
-    AskMeAbout: ["web dev", "tech", "app dev", "photography"],
+    AskMeAbout: ["Web Dev", "Tech", "App Dev", "Photography"],
     Technologies: {
-        MobileApp: ["React Native"],
+        MobileApp: ["React Native", "Flutter"],
         FrontEnd: {
-            Js: ["ReactJS", "Flutter"],
-            Css: ["materialize", "React", "bootstrap","Material-UI"]
+            Technology: ["ReactJS", "HTML", "Elixit Phoenix"],
+            Css: ["Materialize", "React", "Bootstrap","Material-UI"]
         },
         BackEnd: {
-            Js: ["NodeJS", "ExpressJS", "SuiteScript"],
+            Technology: ["NodeJS / Javascript", "ErLang / Elixir", "Python"],
+            NodeJS: ["Javascript"],
             Python: ["Flask"],
             ErLang: ["Elixir"],
             GoLang: ["Go"]
         },
         DevOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        Databases: ["MongoDB", "MySql", "sqlite"],
-        Misc: ["RabbitMQ", "Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        Databases: ["MongoDB", "MySql", "Sqlite", "PostgreSQL"],
+        Misc: ["RabbitMQ", "Firebase", "Socket.IO", "Selenium", "Open-CV", "php", "SuiteApp"]
     },
     Architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     CurrentProject: "I am developing Attendance System with Face Recognition and Temperature Web Application",
