@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shamiur Rahman
 
-### Senior Backend Engineer | Elixir/Phoenix Specialist | Distributed Systems Architect
+### Senior Backend Engineer | Go | Elixir/Phoenix Specialist | Distributed Systems Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imssrahman)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imssrahman@gmail.com)
@@ -24,12 +24,12 @@ defmodule Shamiur do
   def profile do
     %{
       experience: "8+ years",
-      specialization: "Elixir/Phoenix/OTP",
+      specialization: "Go, Elixir/Phoenix/OTP",
       focus: ["Payment Systems", "Multi-Tenant SaaS", "Real-Time Applications"],
       scale: "$50M+ transactions/year, 99.9% uptime",
       architecture: ["Microservices", "Event-Driven", "Fault-Tolerant Systems"],
       current_role: "Building financial infrastructure at scale",
-      timezone: "Asia/Kolkata (UTC+5:30)",
+      timezone: "Asia/Dubai (UTC+4:00)",
       open_to: ["Remote", "Hybrid", "Interesting challenges"]
     }
   end
@@ -96,14 +96,14 @@ end
 ┌─────────────────────────────────────────────────────────────────┐
 │  🎯 Expertise Areas                                              │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  ⚡ Distributed Systems          🔄 Event-Driven Architecture   │
-│  🏗️ Microservices                🔐 Security & Compliance       │
+│                                                                 │
+│  ⚡ Distributed Systems          🔄 Event-Driven Architecture    │
+│  🏗️ Microservices                🔐 Security & Compliance        │
 │  💳 Payment Processing            📊 Real-Time Dashboards        │
 │  🏢 Multi-Tenant SaaS             🔥 Phoenix LiveView            │
-│  🛡️ Fault-Tolerant Design        ⚙️ OTP Patterns (GenServers)  │
+│  🛡️ Fault-Tolerant Design        ⚙️ OTP Patterns (GenServers)    │
 │  📈 High-Performance APIs         🔍 Observability & Monitoring  │
-│                                                                  │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
