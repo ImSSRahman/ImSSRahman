@@ -211,20 +211,6 @@ const currentlyWorkingOn = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImSSRahman&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImSSRahman&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImSSRahman&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 💡 Philosophy & Approach
 
 > **"Perfect is the enemy of good, but good is the enemy of reliable."**
@@ -259,7 +245,7 @@ end
 
 I'm always interested in discussing:
 - 🏗️ Distributed systems architecture
-- ⚡ Elixir/OTP patterns and best practices
+- ⚡ Go, Elixir/OTP patterns and best practices
 - 💳 Payment systems and financial infrastructure
 - 🚀 Building reliable systems at scale
 - 👥 Engineering leadership and mentorship
